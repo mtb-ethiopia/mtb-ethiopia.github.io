@@ -5,7 +5,6 @@ This is the temporay page for Mountain Bike Ethiopia, an organization setup to s
 Shortly we will put up some links.
 
 
-[ABOUT](/about/index.html)
+[ABOUT](/about/about.md)
 
-[test](/about/about.md)
 
