@@ -7,3 +7,5 @@ Shortly we will put up some links.
 
 [ABOUT](/about/index.html)
 
+[test](/about/about.md)
+
