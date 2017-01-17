@@ -1,19 +1,9 @@
-## Welcome to GitHub Pages for mountian bike ethiopia
+## Welcome to mountian bike ethiopia
 
-You can use the [editor on GitHub](https://github.com/mtb-ethiopia/mtb-ethiopia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This is the temporay page for Mountain Bike Ethiopia, an organization setup to spread information about mountain biking in Ethiopia.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Shortly we will put up some links.
 
-### Markdown
 
 [ABOUT](/about/index.html)
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/mtb-ethiopia/mtb-ethiopia.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
