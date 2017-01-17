@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pages for mountian bike ethiopia
 
 You can use the [editor on GitHub](https://github.com/mtb-ethiopia/mtb-ethiopia.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
